@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+
+:root {
+  font-family: OpenSans, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  color-scheme: light;
+  color: #222;
+  background-color: #eee;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  padding: 0;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 1rem;
+}
